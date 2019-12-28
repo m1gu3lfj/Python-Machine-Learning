@@ -8,9 +8,9 @@ El contenido se divide en los siguientes apartados:
   
   2 - Linear Regression
   
-  3 - Decission Tree
+  3 - Decission Trees
   
-  4 - Random Forest
+  4 - Random Forests
   
   5 - PCA
   
