@@ -8,7 +8,7 @@ El contenido se divide en los siguientes apartados:
   
   2 - Linear Regression
   
-  3 - Decission Trees
+  3 - Decision Trees
   
   4 - Random Forests
   
